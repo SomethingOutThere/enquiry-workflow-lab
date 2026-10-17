@@ -55,7 +55,7 @@ The `npm test` and `npm run demo` scripts are equivalent shortcuts if npm is ins
 
 No credentials, private website source, personal profiles, browser captures, customer records, external dependencies or scheduled-post content belong in this package. The UI is deliberately unbranded so it can support an educational tutorial without a commercial CTA.
 
-The code and writing were prepared with AI assistance, then checked through automated tests and a local browser walkthrough. A human publisher still needs to review the technical claims and choose the public author identity before publication.
+The code and writing were prepared with AI assistance, then checked through automated tests and a local browser walkthrough. A human publisher still needs to review the technical claims and choose the public author identity before publishing the DEV article.
 
 Published by the SomethingOutThere organization under the MIT license. See `LICENSE`. The canonical repository is https://github.com/SomethingOutThere/enquiry-workflow-lab.
 
