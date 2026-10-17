@@ -1,0 +1,12 @@
+{
+  "name": "enquiry-workflow-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Fictional-data teaching lab for enquiry identity and notification evidence",
+  "scripts": {
+    "test": "node test/models.test.mjs",
+    "demo": "node examples/walkthrough.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
